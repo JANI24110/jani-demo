@@ -1,3 +1,4 @@
 # jani-demo
-This is my first git repository
-Auther - sahilsaifi
+This is my first git repository.
+<br>
+Author - sahilsaifi
